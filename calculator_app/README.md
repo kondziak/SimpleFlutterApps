@@ -2,6 +2,6 @@
 Simple application just to get hang of a language
 
 ## Start screen
-![](PreOperation.png)
+<img src="PreOperation.png" width="200">
 ## After calculation screen
-![](PostOperation.png)
+<img src="PostOperation.png" width="200">
